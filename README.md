@@ -6,8 +6,6 @@
 
 This repository contains the frontend implementation of the **Expense Tracker App**, a web application designed to help users manage their expenses. The app allows users to register, log in, add, edit, delete, and filter expenses based on various time periods (last week, last month, last 3 months, or custom dates). The frontend is built with **Vue.js 3**, uses **TypeScript** for strict typing, and integrates with a backend API for data persistence.
 
-This project adheres to Senior Full-Stack Developer standards, featuring modular architecture, unit tests, and strict linting for code quality.
-
 ---
 
 ## Features
